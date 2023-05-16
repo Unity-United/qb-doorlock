@@ -630,7 +630,7 @@ Config.DoorList['MRPD-Employee_Interior_DD'] = {
 
 -- Employee_Ext_DD created by Vissy
 Config.DoorList['MRPD-Employee_Ext_DD'] = {
-    distance = 3,
+    distance = 2,
     doors = {
         {objName = 1255964982, objYaw = 180.00001525878, objCoords = vec3(471.858216, -993.203370, 25.616542)},
         {objName = 1255964982, objYaw = 1.0017911336036e-05, objCoords = vec3(474.457062, -993.203370, 25.616542)}
