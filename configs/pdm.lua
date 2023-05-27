@@ -7,7 +7,7 @@ table.insert(Config.DoorList, {
 	garage = false,
 	slides = false,
 	objHeading = 249.99945068359,
-	locked = true,
+	locked = false,
 	lockpick = false,
 	fixText = true,
 	objHash = 1973010099, -- gabz_pdm_maindoor
@@ -26,7 +26,7 @@ table.insert(Config.DoorList, {
 	garage = false,
 	slides = false,
 	objHeading = 339.99945068359,
-	locked = true,
+	locked = false,
 	lockpick = false,
 	fixText = true,
 	objHash = 1973010099, -- gabz_pdm_maindoor
